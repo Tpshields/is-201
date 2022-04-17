@@ -1,0 +1,34 @@
+.header{
+    height: 100px;
+    background-color: white;
+    line-height: 100px;
+}
+.mainbody {
+    position: static;
+    background-color: white;
+}
+.footer{
+    height: 50px;
+    background-color: antiquewhite;
+    color: black;
+    line-height: 50px;
+}
+.common {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.size{
+    width: 35%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h4{
+    color: black;
+}
+.li{
+    color: black;   
+}
+.center{
+    text-align: center;
+}
